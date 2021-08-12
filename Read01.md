@@ -6,7 +6,7 @@
 - *will always return you a new array of the same length as the original array comprised of your return values*
 
 **2- Describe (in plain English) what Array.reduce() does**
--*iterates over an array and returns the last version of the “accumulator” … in each iteration, based on the value and/or idx of the current element in the array, you have the opportunity to modify and return the accumulator. After the last iteration of the array, that accumulator value is returned to the caller*
+- *iterates over an array and returns the last version of the “accumulator” … in each iteration, based on the value and/or idx of the current element in the array, you have the opportunity to modify and return the accumulator. After the last iteration of the array, that accumulator value is returned to the caller*
 
 **3- Provide code snippets showing how to use superagent() to fetch data from a URL and log the result**
 
