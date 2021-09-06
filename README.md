@@ -30,5 +30,6 @@
 | Read15      | [Link 15](https://mahmoud-khader.github.io/Reading-Notes-401/Read15)      |
 | Read16      | [Link 16](https://mahmoud-khader.github.io/Reading-Notes-401/Read16)      |
 | Read17      | [Link 17](https://mahmoud-khader.github.io/Reading-Notes-401/Read17)      |
+| Read18      | [Link 18](https://mahmoud-khader.github.io/Reading-Notes-401/Read18)      |
 
 
