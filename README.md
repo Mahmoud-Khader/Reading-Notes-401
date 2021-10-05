@@ -45,3 +45,4 @@
 | Read36      | [Link 36](https://mahmoud-khader.github.io/Reading-Notes-401/Read36)      |
 | Read37      | [Link 37](https://mahmoud-khader.github.io/Reading-Notes-401/Read37)      |
 | Read38      | [Link 38](https://mahmoud-khader.github.io/Reading-Notes-401/Read38)      |
+| Read39      | [Link 39](https://mahmoud-khader.github.io/Reading-Notes-401/Read39)      |
